@@ -6,6 +6,8 @@
   --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
   --font-mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", monospace;
 
+  --color-primary: #09671f;
+  --color-secondary: #637e64;
   --color-paper: #f4f4f4;
   --color-surface: #FFFFFF;
   --color-ink: #1C2620;
