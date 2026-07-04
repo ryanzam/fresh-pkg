@@ -1,16 +1,86 @@
-# React + Vite
+# Find the freshness of your dependencies
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+![Vercel](https://vercelbadge.vercel.app/api/ryanzam/fresh-pkg)
 
-Currently, two official plugins are available:
+[![NPM](https://nodei.co/npm/fresh-pkg.png)](https://npmjs.org/package/fresh-pkg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+![Vercel](https://vercelbadge.vercel.app/api/ryanzam/package.json-to-badges-generator)
 
-## React Compiler
+[![npm version](https://img.shields.io/npm/v/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
+[![npm downloads](https://img.shields.io/npm/dm/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
+[![npm license](https://img.shields.io/npm/l/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
+[![npm dependents](https://img.shields.io/librariesio/dependents/npm/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies used
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## Expanding the Oxlint configuration
+## Table of Contents
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- [Overview](#overview)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Testing](#testing)
+- [Contributing](#contributing)
+
+## Overview
+
+Find the freshness of your package dependency
+
+## Getting Started
+
+### Prerequisites
+
+Ensure the following are installed on your system:
+
+- **Node.js**: v18.x or later
+- **npm**: v9.x or later
+- **Git**: For cloning the repository
+
+### Installation
+
+Follow these steps to set up the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ryanzam/fresh-pkg.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd fresh-pkg
+   ```
+
+3. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+4. **Start the application**:
+   ```bash
+   npm run dev
+   ```
+
+## Usage
+
+Access the application at `http://localhost:5173` after starting the server. 
+
+## Development
+
+- **Code Style**: Adheres to ESLint and Prettier standards for consistency.
+- **Build**: Run `npm run build` to create a production build.
+
+## Testing
+
+Run tests using the included test suite:
+```bash
+npm test
+```
+
+## Contributing
+
+Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request. Ensure code follows project standards and includes tests.

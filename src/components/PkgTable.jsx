@@ -27,7 +27,7 @@ export default function PkgTable({ rows }) {
                 <thead>
                     <tr className="border-b border-line text-left font-mono text-xs uppercase tracking-wide text-ink-muted">
                         <th className="px-4 py-3 font-medium">Package</th>
-                        <th className="px-4 py-3 font-medium">Declared</th>
+                        <th className="px-4 py-3 font-medium">Installed</th>
                         <th className="px-4 py-3 font-medium">Latest</th>
                         <th className="px-4 py-3 font-medium">Status</th>
                     </tr>

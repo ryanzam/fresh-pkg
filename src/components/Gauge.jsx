@@ -14,9 +14,9 @@ export default function FreshnessGauge({ score }) {
                     <span className="font-display text-2xl text-ink-muted">/100</span>
                 </div>
                 <span
-                    className="font-mono text-sm uppercase tracking-wider px-2.5 py-1 rounded-full"
+                    className="font-mono text-sm font-bold uppercase tracking-wider px-2.5 py-1 rounded-full"
                     style={{
-                        color: `var(--color-${grade.tone})`,
+                        color: `var(--color-white)`,
                         backgroundColor: `var(--color-${grade.tone}-soft, var(--color-line))`,
                     }}
                 >
