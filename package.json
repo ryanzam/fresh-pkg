@@ -1,14 +1,20 @@
 {
   "name": "fresh-pkg",
   "private": false,
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "homepage": "https://fresh-pkg.vercel.app/",
   "repository": {
     "type": "git",
     "url": "https://github.com/ryanzam/fresh-pkg"
   },
-  "keywords": ["dependency", "version", "packages", "checker", "package-health"],
+  "keywords": [
+    "dependency",
+    "version",
+    "packages",
+    "checker",
+    "package-health"
+  ],
   "license": "MIT",
   "author": {
     "name": "ryanzam",
