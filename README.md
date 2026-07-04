@@ -1,15 +1,6 @@
-# Find the freshness of your dependencies
+# Dependency Freshness Checker
 
 ![Vercel](https://vercelbadge.vercel.app/api/ryanzam/fresh-pkg)
-
-[![NPM](https://nodei.co/npm/fresh-pkg.png)](https://npmjs.org/package/fresh-pkg)
-
-![Vercel](https://vercelbadge.vercel.app/api/ryanzam/package.json-to-badges-generator)
-
-[![npm version](https://img.shields.io/npm/v/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
-[![npm downloads](https://img.shields.io/npm/dm/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
-[![npm license](https://img.shields.io/npm/l/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
-[![npm dependents](https://img.shields.io/librariesio/dependents/npm/fresh-pkg?style=for-the-badge)](https://www.npmjs.com/package/fresh-pkg)
 
 ## Technologies used
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
