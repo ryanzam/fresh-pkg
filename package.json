@@ -21,6 +21,17 @@
     "email": "ryanzam2005@yahoo.com",
     "url": "https://ryanzam.is-a.dev"
   },
+  "main": "./dist/fresh-pkg.umd.js",
+  "module": "./dist/fresh-pkg.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/fresh-pkg.es.js",
+      "require": "./dist/fresh-pkg.umd.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
