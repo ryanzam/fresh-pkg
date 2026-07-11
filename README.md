@@ -1,6 +1,10 @@
 # Dependency Freshness Checker
 
+[![NPM](https://nodei.co/npm/fresh-pkg.png)](https://npmjs.org/package/fresh-pkg)
+
 ![Vercel](https://vercelbadge.vercel.app/api/ryanzam/fresh-pkg)
+
+![deps](https://img.shields.io/badge/deps-fresh_94%25-2F8F46)
 
 ## Technologies used
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
