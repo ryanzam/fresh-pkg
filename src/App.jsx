@@ -6,6 +6,7 @@ import Form from './components/Form'
 import { analyzeRepo } from './lib/analyze'
 import Gauge from './components/Gauge'
 import PkgTable from './components/PkgTable'
+import Badge from './components/Badge'
 
 
 function App() {
@@ -92,6 +93,8 @@ function App() {
               </div>
 
               <PkgTable rows={result.rows} />
+
+              <Badge score={result.score} />
 
             </div>
           )}
