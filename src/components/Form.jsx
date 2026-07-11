@@ -1,6 +1,6 @@
 import React from 'react'
 
-const EXAMPLES = ['vitejs/vite', 'vercel/next.js']
+const EXAMPLES = ['ryanzam/fresh-pkg', 'vitejs/vite', 'vercel/next.js']
 
 const Form = ({ value, onChange, onSubmit, pending }) => {
 
